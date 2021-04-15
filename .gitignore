@@ -131,3 +131,4 @@ dmypy.json
 #folder
 .ipynb_checkpoints/
 dane_z_serwera_ftp/
+data/
